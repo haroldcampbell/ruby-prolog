@@ -1,0 +1,3 @@
+An implementation of prolog using ruby.
+
+The aim is to be able to parse prolog code directly from within ruby.
